@@ -1,0 +1,2 @@
+Build a Role playing Game based on the requirements mentioned in freeCodeCamp Learning
+[reference link for building this game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game/step-173)
